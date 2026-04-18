@@ -4,8 +4,8 @@
        http://www.springframework.org/schema/beans
        http://www.springframework.org/schema/beans/spring-beans.xsd">
 	<bean id = "student" class = "com.klu.model.Student" >
-		<constructor-arg value = "2400030367"></constructor-arg>
-		<constructor-arg value = "Srithan"></constructor-arg>
+		<constructor-arg value = "2400080210"></constructor-arg>
+		<constructor-arg value = "Sudheer"></constructor-arg>
 		<property name = "course" value = "FSAD"></property>
 		<property name = "academicYear" value = "2025-2026"></property>
 	</bean>
